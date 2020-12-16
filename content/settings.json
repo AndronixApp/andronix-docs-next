@@ -1,0 +1,10 @@
+{
+  "title": "Andronix Documentation",
+  "url": "next.docs.andronix.app",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "andronixApp/AndronixOrigin",
+  "twitter": "@AndronixApp"
+}
