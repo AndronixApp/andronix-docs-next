@@ -27,7 +27,7 @@ Andronix has the support of almost all the major DE(s) that the current Linux co
 
 - **Kali** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
-- **Manjaro** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
+gg- **Manjaro** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
 - **Fedora** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
@@ -53,7 +53,8 @@ All the Desktop Environemnts look different from each other. Here are some pictu
 
 ## Which WM should I choose?
 
-You can pick whichever WM you like or you are familiar with but for the most part we would recommend to go forword with a [Desktop Environment](../desktop-enviroments) if you're new to Andronix. Operating WM without an actually keyboard can be unpleasant. That being said if you're ready to explore, pick up **Awesome**.
+
+You can pick whichever WM you like, or you are familiar with but for the most part we recommend going forward with a [Desktop Environment](../desktop-enviroments) if you're new to Andronix. Operating WM without an actually keyboard can be unpleasant. That being said if you're ready to explore, pick up **Awesome**.
 
 
 
