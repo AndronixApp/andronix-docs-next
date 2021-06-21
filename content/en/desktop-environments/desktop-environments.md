@@ -1,7 +1,7 @@
 ---
 title: Desktop Enviromements
 description: "Get to know all about the DE(s) Andronix offer"
-position: 4
+position: 6
 category: Desktop Environments
 ---
 

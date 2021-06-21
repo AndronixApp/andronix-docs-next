@@ -1,14 +1,10 @@
 ---
-title: Important Things
+title: Limitations of Andronix
 description: 'Please read this page before you start to use anything that Andronix
 offers.' 
-position: 1
+position: 2
 category: Introduction
 ---
-
-<!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
- -->
  
 Many users out there are looking for a viable resource to use Linux system on their Android devices without rooting
 their devices. Andronix is a viable option for these purposes but with some limitations. We make our best efforts to

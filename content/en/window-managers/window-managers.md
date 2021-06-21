@@ -2,6 +2,7 @@
 title: Window Managers
 description: "Get to know all about the WM(s) Andronix offer"
 category: Window Managers
+position: 7
 ---
 
 According to the [Wikipedia Article](https://en.wikipedia.org/wiki/Window_manager) for Window Managers, here's what they stand for:
@@ -27,7 +28,7 @@ Andronix has the support of almost all the major DE(s) that the current Linux co
 
 - **Kali** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
-- **Manjaro** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
+gg- **Manjaro** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
 - **Fedora** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
@@ -40,7 +41,7 @@ Andronix has the support of almost all the major DE(s) that the current Linux co
 
 ## What does these look like?
 
-All the Desktop Environemnts look different from each other. Here are some pictures of the ones with provide.
+All the Desktop Environments look different from each other. Here are some pictures of the ones with provide.
 
 <alert type="info">Always remember that these are the default looks of the environment. They can be customized according to your liking pretty easily.</alert>
 
@@ -53,7 +54,8 @@ All the Desktop Environemnts look different from each other. Here are some pictu
 
 ## Which WM should I choose?
 
-You can pick whichever WM you like or you are familiar with but for the most part we would recommend to go forword with a [Desktop Environment](../desktop-enviroments) if you're new to Andronix. Operating WM without an actually keyboard can be unpleasant. That being said if you're ready to explore, pick up **Awesome**.
+
+You can pick whichever WM you like, or you are familiar with but for the most part we recommend going forward with a [Desktop Environment](../desktop-enviroments) if you're new to Andronix. Operating WM without an actually keyboard can be unpleasant. That being said if you're ready to explore, pick up **Awesome**.
 
 
 

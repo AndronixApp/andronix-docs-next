@@ -2,21 +2,26 @@
 title: What are Modded OS?
 description: "Learn about Andronix Modded OS"
 category: Modded OS
-position: 3
+position: 4
 ---
 
 <!-- //todo add an image -->
 
-Modded OS are modified by us to achieve the maximum performance and we ship it with all the essential software pre-installed. Themes and icons are selected to match every element of the system.
+Modded OS are modified by our team to achieve the maximum performance. We ship it with all the essential software
+pre-installed. Themes and icons are selected to match every element of the system.
 
 ## When should you choose Modded OS?
 
-Well, every time to don't want to keep yourself busy with optimizing things and fixing those theming issues, finding the correct PPA for the installation of the working version of the software. All-in-all, it allows you to enjoy Linux without making you do everything necessary.
+Well, every time to don't want to keep yourself busy with optimizing things and fixing those theming issues, finding the
+correct PPA for the installation of the working version of the software. All-in-all, it allows you to enjoy Linux
+without making you do everything necessary.
 
 ## Why should you choose Modded OS?
 
-- Pre-installed themes and customized UI for ready-to-go experience. If you want to use it for your work you will surely have an easy and smooth workflow on Modded OS customized UI.
-- Daily use software such as Browser, GIMP, File Managers, Visual Studio Code, Music Player, Sticky Notes, Libre Office, pre-configured repositories and updated system are delivered to you
+- Pre-installed themes and customized UI for ready-to-go experience. If you want to use it for your work you will surely
+  have an easy and smooth workflow on Modded OS customized UI.
+- Daily use software such as Browser, GIMP, File Managers, Visual Studio Code, Music Player, Sticky Notes, Libre Office,
+  pre-configured repositories and updated system are delivered to you
 - Optimised for performance increase when compared to regular distro
 - Separate channel for Modded OS users on our Discord server
 
@@ -35,23 +40,11 @@ These are the following things that need to be done before you're ready to use t
 - Start the distro with ./andro*{distro}*.sh
 - Start the VNC server and connect to it using a VNC-viewer.
 
-### Instructions
+## What OS are modded by Andronix?
 
-<badge>20.04</badge>
-<br>
-<nuxt-link to="./ubuntu-xfce">Ubuntu XFCE Modded OS</nuxt-link>
-<br>
-<br>
-<badge>18.04</badge>
-<br>
-<nuxt-link to="./ubuntu-kde">Ubuntu KDE Modded OS</nuxt-link>
-<br>
-<br>
-<badge>10.00</badge>
-<br>
-<nuxt-link to="./debian-xfce">Debian XFCE Modded OS</nuxt-link>
-<br>
-<br>
-<badge>20.04</badge>
-<br>
-<nuxt-link to="./manjaro-xfce">Manjaro XFCE Modded OS</nuxt-link>
+You can select amongst the following distros-
+
+* Ubuntu XFCE <badge>20.04</badge>
+* Ubuntu KDE <badge>20.04</badge>
+* Manjaro XFCE <badge>20.04</badge>
+* Debian XFCE <badge>20.04</badge>
