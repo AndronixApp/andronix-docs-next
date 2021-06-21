@@ -45,6 +45,6 @@ These are the following things that need to be done before you're ready to use t
 You can select amongst the following distros-
 
 * Ubuntu XFCE <badge>20.04</badge>
-* Ubuntu KDE <badge>20.04</badge>
-* Manjaro XFCE <badge>20.04</badge>
-* Debian XFCE <badge>20.04</badge>
+* Ubuntu KDE <badge>18.04</badge>
+* Manjaro XFCE <badge>20.08</badge>
+* Debian XFCE <badge>10</badge>
