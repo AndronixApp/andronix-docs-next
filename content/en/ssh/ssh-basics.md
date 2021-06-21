@@ -2,7 +2,7 @@
 title: SSH Basics 
 description: "Learn how operate an SSH server."
 category: SSH
-position: 3
+position: 8
 ---
 
 We recommend that you use SSH Server from Termux instead of using in a Linux environment. Using an SSH Server from
@@ -23,55 +23,55 @@ Install **openSSH** inside Linux. Choose the command for your distro accordingly
 
 ### Ubuntu 19
 
-```
+```bash
 apt install openssh-server nano -y
 ```
 
 ### Ubuntu 18
 
-```
+```bash
 apt install openssh-server nano -y
 ```
 
 ### Kali Linux
 
-```
+```bash
 apt install openssh-server nano -y
 ```
 
 ### Debian
 
-```
+```bash
 apt install openssh-server nano -y
 ```
 
 ### Manjaro
 
-```
+```bash
 pacman -S openssh nano --noconfim
 ```
 
 ### Arch
 
-```
+```bash
 pacman -S openssh nano --noconfim
 ```
 
 ### Fedora
 
-```
+```bash
 dnf install -y openssh-server nano
 ```
 
 ### Alpine
 
-```
+```bash
 apk add openssh-server nano
 ```
 
 ### Void
 
-```
+```bash
 xbps-install openssh nano
 ```
 

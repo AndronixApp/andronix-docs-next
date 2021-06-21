@@ -2,7 +2,7 @@
 title: How to install Modded OS?
 description: "Learn how to install your favourite Modded OS easily."
 category: Modded OS
-position: 4
+position: 5
 ---
 
 Installing Modded OS is a very simple process. Here's how to get started quickly-

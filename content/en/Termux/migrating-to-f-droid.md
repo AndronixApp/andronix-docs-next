@@ -1,12 +1,10 @@
 ---
 
 title: Migrating to F-Droid
-
 description: "Know about the recent repository changes of Termux and migration from Google Play Store to F-Droid."
-
 category: Termux
 badge: "Termux"
-
+position: 11
 ---
 
 <alert type="warning">This guide only deals with devices running Android 7 and above. **Termux removed the support for Android 6 and below starting 1st January 2021.**</alert>

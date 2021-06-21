@@ -2,7 +2,7 @@
 title: VNC Basics
 description: "Learn how operate a VNC server."
 category: VNC
-position: 1
+position: 8
 ---
 
 ## Operating the VNC Server
@@ -13,7 +13,7 @@ First you need to make sure that you have any Desktop Environment installed in y
 you're inside the OS shell (shell you get after starting the distro) and not the Termux shell, execute the following
 command in that-
 
-```
+```bash
 vncserver-start
 ```
 
@@ -25,7 +25,7 @@ configured port.
 It is necessary to stop VNC server once you are done with using your distro, or you are exiting it. To stop the VNC
 Server execute the following command in the distro shell-
 
-```
+```bash
 vncserver-stop
 ```
 
@@ -40,13 +40,13 @@ Termux shell).</alert>
 
 To apply your desired resolution, please execute the following command-
 
-```
+```bash
 nano /usr/local/bin/vncserver-start
 ```
 
 Now, you just need to change the last line of this file to-
 
-```
+```bash
 vncserver -name remote-desktop -geometry 1920x1080 :1
 ```
 
@@ -58,13 +58,13 @@ Since you've made changes to the file, let's save it by pressing `ctrl + x` , th
 
 To change resolution permanently execute the following command in the distro's shell-
 
-```
+```bash
 nano /usr/local/bin/vnc
 ```
 
 Once you do this, replace the second line with-
 
-```
+```bash
 LD_PRELOAD=/lib/aarch64-linux-gnu/libgcc_s.so.1 vncserver -localhost no -depth 24 -name remote-desktop -geometry 1920x1080 :$PORT
 ```
 
@@ -72,7 +72,7 @@ LD_PRELOAD=/lib/aarch64-linux-gnu/libgcc_s.so.1 vncserver -localhost no -depth 2
 Server.</alert>
 
 Once you are done, just press `Ctrl+X` and then type `Y` and then hit enter. Now when you'll do just choose the first
-option i.e., **Start vncserver with autodetect/dynamic resolution**.
+option i.e., **Start vnc-server with autodetect/dynamic resolution**.
 
 ### How to change the picture quality in VNC
 
@@ -90,19 +90,22 @@ have access to Wi-Fi you can start the hotspot from the device having the Linux 
 to the hotspot. Once your both the devices are under same network, execute the following command inside the distro's
 shell-
 
-```
+```bash
 nano /usr/local/bin/vncserver-start
 ```
 
 Now edit the last line and change it to-
 
-```
+```bash
 vncserver -name remote-desktop -geometry 1920x1080 -localhost no :1
 ```
 
 <alert type="warning">If you are using a Arch based distribution like Manjaro or Arch Linux itself, please execute the
-following command instead of the aforementioned command-
-```vncserver -name remote-desktop -geometry 1920x1080 -localhost :1```</alert>
+following command instead of the aforementioned command-</alert>
+
+```bash
+vncserver -name remote-desktop -geometry 1920x1080 -localhost :1
+```
 
 Once you are done with this open a new Termux session (drag from the left to open the sidebar for more options) and
 type:

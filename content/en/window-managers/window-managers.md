@@ -2,6 +2,7 @@
 title: Window Managers
 description: "Get to know all about the WM(s) Andronix offer"
 category: Window Managers
+position: 7
 ---
 
 According to the [Wikipedia Article](https://en.wikipedia.org/wiki/Window_manager) for Window Managers, here's what they stand for:
@@ -40,7 +41,7 @@ gg- **Manjaro** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
 ## What does these look like?
 
-All the Desktop Environemnts look different from each other. Here are some pictures of the ones with provide.
+All the Desktop Environments look different from each other. Here are some pictures of the ones with provide.
 
 <alert type="info">Always remember that these are the default looks of the environment. They can be customized according to your liking pretty easily.</alert>
 
