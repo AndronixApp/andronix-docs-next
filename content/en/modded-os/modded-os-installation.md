@@ -48,10 +48,10 @@ configuring your installed distro! Now you just need to **start the distro**.
 You can start the distro with typing the following command in termux (Please choose your distro and execute the
 respective command)-
 
-* Ubuntu XFCE `./start-<>.sh`
-* Ubuntu KDE `./start-<>.sh`
-* Debian XFCE `./start-<>.sh`
-* Manjaro XFCE `./start-<>.sh`
+* Ubuntu XFCE `./start-andronix.sh`
+* Ubuntu KDE `./start-androkde.sh`
+* Debian XFCE `./start-androdebian.sh`
+* Manjaro XFCE `./start-androjaro.sh`
   This will start the post-installation process i.e., setting up the essential packages. You will need to wait until
   this finishes.
 
@@ -61,17 +61,31 @@ respective command)-
    bottom. This restarts the script and this time make sure that you have your keyboard out (click anywhere on the
    terminal) when you're in the Termux shell.</alert>
 
+<img src="/images/username_user.png" alt="drawing" width="200"/>
+
+
 9. After the username, it's time to set up a password. You can choose any password as long as it is longer than 6
    characters. Press Enter to proceed. Confirm the password by re-entering it and press enter to continue.
+
+<img src="/images/pass_user.png" alt="drawing" width="200"/>
+
 
 10. Now you need a Root Password. You can choose any password as long as it is longer than 6 characters. Press Enter to
     proceed. Confirm the root password by re-entering it and press enter to continue.
 
+
 11. The next screen will show all the information entered. Check if those are the correct passwords and username (if
     not, press esc or back button to restart the script). Press Enter to proceed.
 
+<img src="/images/confirm_user.png" alt="drawing" width="200"/>
+
+
+
 12. Now, wait until the system is creating the user. You should see something like this while the system is setting-up
     the user.
+
+<img src="/images/user_creation_moddedos.png" alt="drawing" width="200"/>
+
 
 13. That's it! After this finishes, you will see- ```{your_username}@localhost:~$```
 
