@@ -28,7 +28,7 @@ Andronix has the support of almost all the major DE(s) that the current Linux co
 
 - **Kali** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
-gg- **Manjaro** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
+- **Manjaro** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
 - **Fedora** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
