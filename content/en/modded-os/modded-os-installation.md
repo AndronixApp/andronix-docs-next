@@ -16,9 +16,18 @@ That information aside, we can begin installing the distro now. Follow the steps
 
 1. Open the app and click on the Modded OS button on the dashboard. After you get into the Modded OS section, you'll see
    the various distros that you can install.
+
+<img src="/images/modded_os_selection.png" alt="drawing" width="200"/>
+
 2. Click the distro that you already own or are willing to buy. If you haven't already paid for it in the past, the app
    will show you the price and other information that you can refer and make the purchase. As soon as you complete the
    purchase, you can follow the next set of instructions.
+        
+    **Unpaid Screen**
+    <img src="/images/modded_os_unpaid.png" alt="drawing" width="200"/>
+   
+    **Paid Screen**
+   <img src="/images/modded_os_install_screen.png" alt="drawing" width="200"/>
 
 [comment]: <> (   <alert type="success">For more information on in-app purchases and commerce on the Andronix app, refer)
 
@@ -27,11 +36,13 @@ That information aside, we can begin installing the distro now. Follow the steps
 3. Now that we have the distro linked to our profile, we can continue. You would see 3 buttons, one labelled "Install"
    , "Uninstall" and "Download Quota".
 
+    <img src="/images/modded_os_install_screen.png" alt="drawing" width="200"/>
+
 4. As we are installing the distro, we will click on **Install**. The app will now communicate to our servers and
    generate a script command with some parameters. **The app would have copied the command to your clipboard
    automatically.**
 
-5. Just open Termux (make sure you've read this [Migration to F-Droid](../Termux/migrating-to-f-droid.md)) and paste the
+5. Just open Termux (make sure you've read this [Migration to F-Droid](/termux/migrating-to-f-droid)) and paste the
    command by long pressing and selecting "Paste". Hit the return/enter button to execute the command.
 
 6. Wait for the installation to complete. The time taken will depend on the hardware of the device and your internet

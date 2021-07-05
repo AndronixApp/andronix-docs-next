@@ -35,7 +35,7 @@ Andronix has the support of almost all the major DE(s) that the current Linux co
 
 - **Arch** <badge>XFCE</badge> <badge>LXDE</badge> <badge>Enlightenment</badge>
 
-<alert type="info">KDE is only available via [Andronix Ubuntu KDE Modded OS](../Installation/ModdedOS/ubuntu-kde)</alert>
+<alert type="info">KDE is only available via [Andronix Ubuntu KDE Modded OS](/modded-os/modded-os)</alert>
 
 ## What does these look like?
 
