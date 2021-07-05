@@ -19,8 +19,10 @@ That information aside, we can begin installing the distro now. Follow the steps
 2. Click the distro that you already own or are willing to buy. If you haven't already paid for it in the past, the app
    will show you the price and other information that you can refer and make the purchase. As soon as you complete the
    purchase, you can follow the next set of instructions.
-   <alert type="success">For more information on in-app purchases and commerce on the Andronix app, refer
-   to [this section]().</alert>
+
+[comment]: <> (   <alert type="success">For more information on in-app purchases and commerce on the Andronix app, refer)
+
+[comment]: <> (   to [this section]&#40;&#41;.</alert>)
 
 3. Now that we have the distro linked to our profile, we can continue. You would see 3 buttons, one labelled "Install"
    , "Uninstall" and "Download Quota".
@@ -73,10 +75,8 @@ respective command)-
 
 13. That's it! After this finishes, you will see- ```{your_username}@localhost:~$```
 
-[comment]: <> (Add a link to VNC article)
 
-
-Lastly, start the VNC server (want to know what is a VNC server? Read more [here]()) with executing the following
+Lastly, start the VNC server (want to know what is a VNC server? Read more [here](/vnc/vnc-basics)) with executing the following
 command **inside the distribution shell** and not the Termux shell - ```vncserver-start```
 
 _To make sure you're executing it inside the distribution, please start the distro first before starting the VNC

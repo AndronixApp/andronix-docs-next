@@ -28,6 +28,6 @@ nano start-{distroname}.sh
 command+=" -b /sdcard"
 ```
 * If you don't find the line then add the above mentioned line as shown in the screenshot below.
-//
 
+<img src="/images/strorage_ss.png" alt="drawing" width="200"/>
 * Once you are done with it press `Ctrl+X` and then press `Y` and then `Enter`. Now start your linux system and do `cd /` . Now you will be able to see a folder `sdcard` which means you have successfully mounted your Internal Storage.
