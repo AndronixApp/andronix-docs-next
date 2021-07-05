@@ -39,19 +39,6 @@ Andronix has the support of almost all the major DE(s) that the current Linux co
 - **Arch** <badge>Awesome</badge> <badge>i3</badge> <badge>Openbox</badge>
 
 
-## What does these look like?
-
-All the Desktop Environments look different from each other. Here are some pictures of the ones with provide.
-
-<alert type="info">Always remember that these are the default looks of the environment. They can be customized according to your liking pretty easily.</alert>
-
-### Awesome
-
-### i3
-
-### Openbox
-
-
 ## Which WM should I choose?
 
 

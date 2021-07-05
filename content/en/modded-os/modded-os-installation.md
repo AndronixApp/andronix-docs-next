@@ -66,7 +66,22 @@ respective command)-
   This will start the post-installation process i.e., setting up the essential packages. You will need to wait until
   this finishes.
 
-8. If the post-installation setup successfully executed, you will see a **blue screen** asking for a username. You can
+
+8. If the post-installation setup is successful, you will see a menu to select the region from. You can use the **arrow keys** as show in the screenshot below to move the selection and hit **ENTER** to proceed forward.
+
+<img src="/images/moddedos/modded_os_region_no_arrow_marker.png" alt="drawing" width="200"/>
+
+
+9. Once you have selected the region, you can select your **City** in next menu and proceed forward.
+
+<img src="/images/moddedos/modded_os_city.png" alt="drawing" width="200"/>
+
+
+10. Now you can select the keyboard layout at this point if you have any specific layout other than default English keyboard layout. If you want the English keyboard layout only, you can just press **Enter** and proceed forward.
+
+<img src="/images/moddedos/modded_os_keyboard.png" alt="drawing" width="200"/>
+
+11. If everything goes perfectly, you will see a **blue screen** asking for a username. You can
    choose any username unless that's a reserved keyword like admin, root etc. (your name works fine). Press **Enter** to
    proceed. <alert type="info">If you can't access your keyboard for entering the username, press the ESC key at the
    bottom. This restarts the script and this time make sure that you have your keyboard out (click anywhere on the
@@ -75,30 +90,30 @@ respective command)-
 <img src="/images/username_user.png" alt="drawing" width="200"/>
 
 
-9. After the username, it's time to set up a password. You can choose any password as long as it is longer than 6
+12. After the username, it's time to set up a password. You can choose any password as long as it is longer than 6
    characters. Press Enter to proceed. Confirm the password by re-entering it and press enter to continue.
 
 <img src="/images/pass_user.png" alt="drawing" width="200"/>
 
 
-10. Now you need a Root Password. You can choose any password as long as it is longer than 6 characters. Press Enter to
+13. Now you need a Root Password. You can choose any password as long as it is longer than 6 characters. Press Enter to
     proceed. Confirm the root password by re-entering it and press enter to continue.
 
 
-11. The next screen will show all the information entered. Check if those are the correct passwords and username (if
+14. The next screen will show all the information entered. Check if those are the correct passwords and username (if
     not, press esc or back button to restart the script). Press Enter to proceed.
 
 <img src="/images/confirm_user.png" alt="drawing" width="200"/>
 
 
 
-12. Now, wait until the system is creating the user. You should see something like this while the system is setting-up
+15. Now, wait until the system is creating the user. You should see something like this while the system is setting-up
     the user.
 
 <img src="/images/user_creation_moddedos.png" alt="drawing" width="200"/>
 
 
-13. That's it! After this finishes, you will see- ```{your_username}@localhost:~$```
+16. That's it! After this finishes, you will see- ```{your_username}@localhost:~$```
 
 
 Lastly, start the VNC server (want to know what is a VNC server? Read more [here](/vnc/vnc-basics)) with executing the following
