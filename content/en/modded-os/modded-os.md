@@ -40,6 +40,8 @@ These are the following things that need to be done before you're ready to use t
 - Start the distro with ./andro*{distro}*.sh
 - Start the VNC server and connect to it using a VNC-viewer.
 
+For a more verbose guide, please refer to [this section of the docs](/modded-os/modded-os-installation)
+
 ## What OS are modded by Andronix?
 
 You can select amongst the following distros-
