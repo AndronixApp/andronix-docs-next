@@ -13,27 +13,27 @@ In simpler terms, a **desktop environment is the Graphical User Interface (GUI) 
 
 ## What Desktop Environemnts does Andronix offer?
 
-Andronix has the support of almost all the major DE(s) that the current Linux community has. These include **XFCE**, **LXQT**, **LXDE** and **Enlightenment**.
+Andronix has the support of almost all the major DE(s) that the current Linux community has. These include **XFCE**, **LXQT**, **LXDE**.
 
 <alert type="warning">The availability of Desktop Environments vary through out different distros.</alert>
 
 ### Desktop Environment List
 
-- **Ubuntu** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge> <badge>Enlightenment</badge>
+- **Ubuntu** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge>
 
-- **Debian** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge> <badge>Enlightenment</badge>
+- **Debian** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge>
 
-- **Kali** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge> <badge>Enlightenment</badge>
+- **Kali** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge>
 
-- **Manjaro** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge> <badge>Enlightenment</badge>
+- **Manjaro** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge>
 
-- **Fedora** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge> <badge>Enlightenment</badge>
+- **Fedora** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge>
 
-- **Void** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge> <badge>Enlightenment</badge>
+- **Void** <badge>XFCE</badge> <badge>LXDE</badge> <badge>LXQT</badge>
 
 - **Alpine** <badge>XFCE</badge>
 
-- **Arch** <badge>XFCE</badge> <badge>LXDE</badge> <badge>Enlightenment</badge>
+- **Arch** <badge>XFCE</badge> <badge>LXDE</badge>
 
 <alert type="info">KDE is only available via [Andronix Ubuntu KDE Modded OS](/modded-os/modded-os)</alert>
 
@@ -49,7 +49,7 @@ All the Desktop Environemnts look different from each other. Here are some pictu
 
 ### LXDE
 
-### ENLIGHTENMENT
+
 
 ## Which DE should I choose?
 
