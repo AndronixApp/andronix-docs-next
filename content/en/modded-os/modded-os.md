@@ -48,5 +48,5 @@ You can select amongst the following distros-
 
 * Ubuntu XFCE <badge>20.04</badge>
 * Ubuntu KDE <badge>18.04</badge>
-* Manjaro XFCE <badge>20.04</badge>
+* Manjaro XFCE <badge>19</badge>
 * Debian XFCE <badge>10</badge>
