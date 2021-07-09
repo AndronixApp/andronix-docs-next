@@ -17,14 +17,8 @@ repositories hosted on `dl.bintray.com` domain are no longer available anymore. 
 the Bintray hosting service by JFrog (more about
 that [here](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)).
 
-### What to do now?
+### FAQs?
 
-There can now be the following scenarios
-
-#### 1. I already have Termux installed on my device.
-
-Since you already have termux installed, the next step will be detecting if it's the one from the Google Play Store or
-F-Droid.
 
 > F-Droid houses the latest stable versions of Termux that are now **not released** on the Play Store. This is the reason that we should have the latest version from F-Droid installed.
 
