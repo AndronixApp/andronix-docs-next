@@ -10,6 +10,9 @@ device.</alert>
 <alert type="info">This is **not** a guide to install a **Modded OS**. Please read the next article from this for more information on that.</alert>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4cUrdJU4KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Installing your favourite distro is a breeze with Andronix. Please follow these simple steps mentioned below-
 
 * After you open the Andronix app, you will a catalogue of logos of the distributions you can use on your device. Select

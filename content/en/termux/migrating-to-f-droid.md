@@ -9,6 +9,8 @@ position: 11
 <alert type="warning">This guide only deals with devices running Android 7 and above. **Termux removed the support for Android 6 and below starting 1st January 2021.**</alert>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4cUrdJU4KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What are the recent changes made to Termux?
 
 All Termux repositories previously hosted on JFrog Bintray are down since `1st May, 2021`. This means that all
