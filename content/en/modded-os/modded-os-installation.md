@@ -12,6 +12,8 @@ generous limit and shouldn't be hit by most users, but we can always help you in
 strictly done to curb down the abuse of the downloading system. **You can see this limit on the OS information page of
 each distribution.**</alert>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyklWig3mNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 That information aside, we can begin installing the distro now. Follow the steps below-
 
 * Open the app and click on the Modded OS button on the dashboard. After you get into the Modded OS section, you'll see
