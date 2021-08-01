@@ -11,11 +11,13 @@ According to the [Wikipedia Article](https://en.wikipedia.org/wiki/Desktop_envir
 
 In simpler terms, a **desktop environment is the Graphical User Interface (GUI) that you interact with**. Icons, menus, menu bars and all the visual things come under a DE.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2sBsxrWD9to" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What Desktop Environemnts does Andronix offer?
 
 Andronix has the support of almost all the major DE(s) that the current Linux community has. These include **XFCE**, **LXQT**, **LXDE**.
 
-<alert type="warning">The availability of Desktop Environments vary through out different distros.</alert>
+<alert type="warning">The availability of Desktop Environments vary throughout different distros.</alert>
 
 ### Desktop Environment List
 

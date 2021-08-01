@@ -5,12 +5,12 @@ category: Software
 position: 15
 ---
 
-You can install GIMP to fulfil all your image editing needs as follows-
+You can install GIMP to fulfill all your image editing needs as follows-
 
 <alert type="warning">The following instructions assume that you're inside your distro's shell and not using Termux's
 shell for this.</alert>
 
-Please find your distro and run the command in it's shell-
+Please find your distro and run the command in its shell-
 
 ### Ubuntu/ Debian based distributions-
 

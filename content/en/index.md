@@ -13,17 +13,13 @@ Andronix is designed to be as simple and intuitive as possible. Please choose wh
 
 ## UnModded OS
 
-These are the OS that we offer for free. We maintain them and release newer versions as they are released by their
-developers. Our Un-Modded OS include *Ubuntu*,*Kali Linux*,*Manjaro Linux*,*Debian* etc.
-
+These are the OS that we offer for free. We maintain them and release newer versions as their developers release them. Our Un-Modded OS includes *Ubuntu*, *Kali Linux*, *Manjaro Linux*, *Debian*, and other popular distributions.
 Follow this section of the docs to know how to install these OS(s) - [Unmodded OS Guide](/unmodded-distros/unmodded-os-installation)
 
 ## Modded OS
 
-<alert type="info">Modded OS are a paid product. The purchase is one-time, for life and syncs with all of your
+<alert type="info">Modded OS is a paid product. The purchase is one-time, for life and syncs with all of your
 devices.</alert>
 
-Modded OS are modified by our team to achieve the maximum performance. We ship it with all the essential software
-pre-installed. Themes and icons are selected to match every element of the system.
-
-Follow this section of the docs to know how to install these OS(s) - [Modded OS Guide](/modded-os/modded-os-installation)
+Our team modifies Modded OS to achieve maximum performance. We ship it with all the essential software pre-installed. Themes and icons are selected to match every element of the system.
+Follow this section of the docs to know how to install these OS(s) - [Modded OS Guide.](/modded-os/modded-os-installation)

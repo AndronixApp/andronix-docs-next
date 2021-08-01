@@ -5,7 +5,7 @@ category: Software
 position: 13
 ---
 
-We love to code here and Andronix is a portable computer. Why not use it to code anywhere? You can use full-fledged IDEs
+We love to code here, and Andronix is a portable computer. Why not use it to code anywhere? You can use full-fledged IDEs
 inside Andronix.
 
 <alert type="warning">We have only tested VS code, IntelliJ Idea, IntelliJ DataGrip, MonoDevelop (tested GTKsharp, ASP
@@ -16,7 +16,7 @@ programs in C #) Net Core. You can test other IDEs and edit this page to add it 
 
 Here are the steps needed to install IntelliJ Idea on your Andronix instance
 
-<alert type="info">This assumes that you have the SDK for your language already installed for the distro you are
+<alert type="info">The instructions assume that you have the SDK for your language already installed for the distro you are
 using.</alert>
 
 * Download the latest tar.gz file from JetBrains
@@ -72,10 +72,10 @@ Fedora is not recommended for use of Jetbrains IDE.
 
 ## VS Code
 
-<alert type="info">Andronix supports VS Code on all four of our support CPU architectures namely ARM64(armv8), armv7,
+<alert type="info">Andronix supports VS Code on all four of our support CPU architectures, namely ARM64(armv8), armv7,
 i686 and x86_64.</alert>
 
-<alert type="success">Modded OS come installed with VS Code of out the box.</alert>
+<alert type="success">VS Code comes pre-installed with out Modded OSs.</alert>
 
 ### Debian based distros (Package Manager - apt)
 
