@@ -7,29 +7,30 @@ position: 8
 
 ## Operating the VNC Server
 
+Let's learn how to operate VNC servers including starting, stopping and debugging them.
+
 ### Starting a VNC server
 
-First you need to make sure that you have any Desktop Environment installed in your Linux OS. After you make sure that
-you're inside the OS shell (shell you get after starting the distro) and not the Termux shell, execute the following
+First, you need to make sure that you have any Desktop Environment installed in your Linux OS. After you make sure that
+you're inside the OS shell (shell you get after starting the distro) and not the Termux shell; execute the following
 command in that-
 
 ```bash
 vncserver-start
 ```
 
-Now just download any VNC Viewer app from Play Store (eg. Real VNC, bVNC etc.) and connect to localhost:1 or the
+Now just download any VNC Viewer app from Play Store (e.g. Real VNC, bVNC, etc.) and connect to localhost:1 or the
 configured port.
 
 ### Stopping a VNC server
 
-It is necessary to stop VNC server once you are done with using your distro, or you are exiting it. To stop the VNC
-Server execute the following command in the distro shell-
+It is necessary to stop the VNC server once you are done using your distro or exiting it. To stop the VNC server execute the following command in the distro shell-
 
 ```bash
 vncserver-stop
 ```
 
-Once you execute it, terminal will ask you for a port number. Enter 1 as the port number and click enter.
+Once you execute it, the terminal will ask you for a port number. Enter **1** as the port number and click enter.
 
 ## VNC Settings
 
@@ -86,8 +87,8 @@ Picture Quality to **High**, or to your desired quality.
 <alert type="success">You can access the instance running on your phone on any other device on your network.</alert>
 
 Continuing with the instructions, please make sure that both of your devices are sharing the same network. If you don't
-have access to Wi-Fi you can start the hotspot from the device having the Linux installed and connect the other device
-to the hotspot. Once your both the devices are under same network, execute the following command inside the distro's
+have access to Wi-Fi, you can start the hotspot from the device having the Linux installed and connect the other device
+to the hotspot. Once both the devices are under the same network, execute the following command inside the distro's
 shell-
 
 ```bash
@@ -100,8 +101,8 @@ Now edit the last line and change it to-
 vncserver -name remote-desktop -geometry 1920x1080 -localhost no :1
 ```
 
-<alert type="warning">If you are using a Arch based distribution like Manjaro or Arch Linux itself, please execute the
-following command instead of the aforementioned command-</alert>
+<alert type="warning">If you are using an Arch-based distribution like Manjaro or Arch Linux itself, please execute the
+following command instead of the command as mentioned earlier-</alert>
 
 ```bash
 vncserver -name remote-desktop -geometry 1920x1080 -localhost :1

@@ -5,8 +5,7 @@ category: Software
 position: 12
 ---
 
-<alert type="warning">If you are having any **armv7** based device browsers might fail to work due to unknown
-reasons.</alert>
+<alert type="warning">If you are having any **armv7** based device, browsers might fail to work due to unknown reasons.</alert>
 
 <alert type="info">These instructions assume that you have started your distro and are inside the distro shell (not a
 Termux shell).</alert>

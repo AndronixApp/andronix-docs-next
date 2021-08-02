@@ -5,9 +5,9 @@ your device."
 category: Troubleshoot
 ---
 
-You can use your speakers while using your distro to get all that nice music from Spotify (or anything) while you code. We use Pulse Audio to get that sound out of the PRoot container to your Android's speakers.
+You can use your speakers while using your distro to get all that excellent music from Spotify (or anything) while you code. We use Pulse Audio to get that sound out of the PRoot container to your phone's speakers.
 
-<alert type="info">Modded OS have sound output through phone's speakers enabled out of the box</alert>
+<alert type="info">Modded OS have sound output through phone's speakers enabled out of the box.</alert>
 
 Just follow these steps correctly in order to have sound output enabled-
 
