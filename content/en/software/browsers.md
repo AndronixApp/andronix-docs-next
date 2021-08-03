@@ -14,7 +14,7 @@ Termux shell).</alert>
 
 Please follow the following instruction (in accordance to the distro you're running) to install Firefox-
 
-### Ubuntu 19/ Ubuntu 20/ Debian/ Kali Linux
+### Ubuntu 18/ Ubuntu 20/ Debian/ Kali Linux
 
 ```bash
 apt install firefox-esr -y
