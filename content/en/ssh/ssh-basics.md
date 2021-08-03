@@ -21,7 +21,7 @@ the port number needs to be changed. Follow the below steps to use SSH from Term
 
 1. Install **openSSH** inside Linux. Choose the command for your distro accordingly from the given list:
   
-    ### Ubuntu 19
+    ### Ubuntu 20
     
     ```bash
     apt install openssh-server nano -y
