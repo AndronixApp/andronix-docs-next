@@ -37,8 +37,7 @@ There are two ways which you can use to migrate to the Termux published on the F
 
 ### Integrated Method
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M4cUrdJU4KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOnS9_Nfx4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <alert type="success">This is an easier and recommended way to install your Termux app.</alert>
 
