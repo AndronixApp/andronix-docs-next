@@ -92,7 +92,8 @@ You will need to run/execute this command in Termux.
   
 * You can now start the distro by typing the following command in termux (Please choose your distro and execute the respective command)-
 
-  * Ubuntu `./start-ubuntu.sh`
+  * Ubuntu 18 `./start-ubuntu.sh`
+  * Ubuntu 20 `./start-ubuntu20.sh`
   * Debian `./start-debian.sh`
   * Manjaro `./start-manjaro.sh`
   * Arch Linux `./start-arch.sh`
