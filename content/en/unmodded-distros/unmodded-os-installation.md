@@ -81,7 +81,7 @@ on your device right now if you have correctly followed all the instructions.
 
 You will need to run/execute this command in Termux.
 
-<alert type="warning">Please read this before proceeding to make sure that you're using a compatible version of Termux for the installation process. Make sure that you've followed this guide for [Migration to F-Droid](/termux/migration-to-f-droid)</alert>
+<alert type="warning">Please read this before proceeding to make sure that you're using a compatible version of Termux for the installation process. Make sure that you've followed this guide for [Migration to F-Droid](/termux/migrating-to-f-droid)</alert>
 
 * Open the termux app and run the following command first ```pkg update```, this will ensure that you are running the latest packages. Now **long press to paste the copied command and then hit enter to run it**.
 

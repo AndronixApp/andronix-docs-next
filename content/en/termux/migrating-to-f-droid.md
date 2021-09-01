@@ -1,7 +1,6 @@
 ---
 title: Migrating to F-Droid
-description: "Know about the recent repository changes of Termux and migration from Google
-Play Store to F-Droid."
+description: "Know about the recent repository changes of Termux and migration from Google Play Store to F-Droid."
 category: Termux
 badge: "Termux"
 position: 11
