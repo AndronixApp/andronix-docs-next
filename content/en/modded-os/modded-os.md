@@ -1,6 +1,8 @@
 ---
-title: What are Modded OS? description: "Learn about Andronix Modded OS"
-category: Modded OS position: 4
+title: What are Modded OS?
+description: "Learn about Andronix Modded OS"
+category: Modded OS 
+position: 4
 ---
 
 <!-- //todo add an image -->

@@ -1,9 +1,12 @@
 ---
-title: Limitations of Andronix description: 'Please read this page before you start to use anything that Andronix
-offers.' position: 2 category: Introduction
+title: Limitations of Andronix
+description: 'Please read this page before you start to use anything that Andronix
+offers.' 
+position: 2 
+category: Introduction
 ---
 
-Many users out there are looking for a viable resource to use Linux system on their Android devices without root their
+Many users out there are looking for a viable resource to use the Linux system on their Android devices without root their
 devices. Andronix is a viable option for these purposes but with some limitations. We do our best to provide a complete
 Linux PC 💻experience to our users, but some things are just out of our hands due to certain restrictions imposed by the
 Android layer, it's the SELinux 🔐 policies, and the process we use to run the Linux on the Android devices.
@@ -18,11 +21,7 @@ aarch64, armv8, arm64, arm, armv7, arm32, etc.
 
 ## Architectural Limitations
 
-* Andronix cannot run any software except software complied for **arm64/armv8/aarch64** architecture if you are using
-  any **Android device** based on **Android 7** or above and has **arm64/armv8/aarch64** chipset. You can check your
-  device architecture by using [**CPUZ**](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z). If you are
-  using any Android layer device such as **Chromebook**, then Andronix will only run software made for your
-  architecture, which may be **i386/i686/x86 or x86\_64.**
+* Andronix cannot run any software except software complied for **arm64/armv8/aarch64** architecture if you are using any **Android device** based on **Android 7** or above and has **arm64/armv8/aarch64** chipset. You can check your device architecture by using [**CPUZ**](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z). If you are using any Android layer device such as **Chromebook**, then Andronix will only run software made for your architecture, which may be **i386/i686/x86 or x86\_64.**
 
 ## PRoot Limitations
 
@@ -33,15 +32,11 @@ aarch64, armv8, arm64, arm, armv7, arm32, etc.
 
 ## Development Environments
 
-* Andronix does not support compiling large chunks of code 👩💻such as building an Android app, any software, or
-  compiling kernels. Code compilations sometimes require specific hardware not present in the PRoot environment, leading
-  to errors while compiling code. Any such reports on any of the support channels won't be dealt with.
+* Andronix does not support compiling large chunks of code 👩💻such as building an Android app, any software, or compiling kernels. Code compilations sometimes require specific hardware not present in the PRoot environment, leading to errors while compiling code. Any such reports on any of the support channels won't be dealt with.
 
 ## Hacking
 
-* You won't be able to use penetration testing tools for **hacking/cracking purposes**, i.e., Wi-Fi hacking, packet
-  capture, etc. These things require real hardware that supports all the features like packet capturing, which is not
-  available natively in Android phones.
+* You won't be able to use penetration testing tools for **hacking/cracking purposes**, i.e., Wi-Fi hacking, packet capture, etc. These things require real hardware that supports all the features like packet capturing, which is not available natively in Android phones.
 
 ## Hardware Limitations
 
@@ -49,20 +44,16 @@ aarch64, armv8, arm64, arm, armv7, arm32, etc.
   cannot be used under PRoot.
 
 
-* Any Linux OS cannot be installed on External Storage as Android does not permit to write on External storage such as
-  SD-cards or USB devices.
+* Any Linux OS cannot be installed on External Storage as Android does not permit to write on External storage such as SD-cards or USB devices.
 
 ## Container Applications
 
-* **SNAP/Docker/Flatpak** packages cannot be installed on any Linux environment. The primary reason is that both require
-  kernel and bus modules unavailable in the PRoot environment. The second is that both are mainly focused on
-  Intel/AMD-based architectures and not on arm architecture.
+* **SNAP/Docker/Flatpak** packages cannot be installed on any Linux environment. The primary reason is that both require kernel and bus modules unavailable in the PRoot environment. The second is that both are mainly focused on
+  Intel/AMD-based architectures and not on the ARM architecture.
 
 ## Networking and Init Systems
 
-* You can't use any services such as VPN or anything which changes the properties of the network cause the network
-  operated within the Linux container is managed by Android and not Linux itself. Hence, it does not have access to
-  modify any property of the network.
+* You can't use any services such as VPN or anything which changes the properties of the network cause the network operated within the Linux container is managed by Android and not Linux itself. Hence, it does not have access to modify any property of the network.
 
 ## Hardware acceleration
 
@@ -79,17 +70,17 @@ to run your favorite Linux distribution on your Android devices.
 
 According to the official PRoot documentation
 
-> PRoot is a user-space implementation of **chroot, mount --bind, and binfmt\_misc**. This means that users don't need any privileges or setup to do things like using an arbitrary directory as the new root file system, making files accessible somewhere else in the file system hierarchy, or executing programs built for another CPU architecture transparently through QEMU user-mode.
+> PRoot is a user-space implementation of **chroot, mount --bind, and binfmt\_misc**. This means that users don't need any privileges or set up to do things like using an arbitrary directory as the new root file system, making files accessible somewhere else in the file system hierarchy, or executing programs built for another CPU architecture transparently through QEMU user-mode.
 
 or in easier words, the benefits of enabling PRoot include running Linux operating systems in a
-Termux [chroot](https://en.m.wikipedia.org/wiki/Chroot) on an Android smartphone, tablet and Chromebook.
+Termux [chroot](https://en.m.wikipedia.org/wiki/Chroot) on an Android smartphone, tablet, and Chromebook.
 
-We use **Termux** to provide the command line and the packages that are especially compiled for Termux implemented
+We use **Termux** to provide the command line and the packages that are specially compiled for Termux implemented
 inside Andronix.
 
 ## Are we open-source? 📖🔓
 
-Yes, but no. Andronix is partially open-source. The free distro (.tar) files ,and the shell scripts are available on
+Yes, but no. Andronix is partially open-source. The free distro (.tar) files and the shell scripts are available on
 our [GitHub repository](https://github.com/andronixapp). While all the paid things, like the actual Android app and all
 the files concerning Andronix Modded OS, are closed-source for apparent reasons.
 
