@@ -6,7 +6,7 @@ position: 9
 ---
 
 <alert type="success">
-The current release of Termux is v0.117 </alert>
+The current release of Termux is v0.118 </alert>
 
 Since Termux ended support for the Google Play Store, Andronix 6.0 provides you with an easier way to install it on your Android device without even needing to leave the app.
 
@@ -32,17 +32,17 @@ Following this, you will find the MD5 checksum of the latest release of Termux o
 Andronix's Release MD5
 
 ```
-fdbab48eb5919133f98f6c08be705a23
+bd3af0ad4bbe9def1d6bb2e189e1b4e5
 ```
 
 Termux's Release MD5
 
 ```
-fdbab48eb5919133f98f6c08be705a23
+bd3af0ad4bbe9def1d6bb2e189e1b4e5
 ```
 
 #### VirusTotal Report
 
 Following this, you will find the [VirusTotal](https://virustotal.com) reports of Termux's latest release on our GitHub repository.
 
-Check the [report](https://www.virustotal.com/gui/file/956f5945dd616206b1f226c54b1908110a1e8e2e759ba71c6f888577fa739993/detection)
+Check the [report](https://www.virustotal.com/gui/file/822ac152bd7c2d9770b87c1feea03f22f2349a91b94481b268c739493a260f0b/detection)
