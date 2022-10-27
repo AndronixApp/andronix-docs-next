@@ -21,7 +21,7 @@ any other distro like Debian.
 
 ### Modded Manjaro gives repository errors whenever I try to install or update any package.
 
-**Ans.** Follow [this guide](https://forum.andronix.app/t/modded-manjaro-easy-setup-commands/), and you'll be good to
+**Ans.** Follow [this guide](https://youtu.be/SAGt39yYV0Y), and you'll be good to
 go.
 
 ### AlgGr not working on VNC
