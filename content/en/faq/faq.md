@@ -51,6 +51,9 @@ Here's an easy fix for this error-
    <img src="/images/faq/firefox.png" alt="drawing" width="500"/>
 6. Restart Firefox.
 
+### Error- [Process completed (signal 9) - press Enter]
+**Ans.** Please refer to [this section of the documentation](/android-12/andronix-on-android-12-and-beyond).
+
 
 
 
