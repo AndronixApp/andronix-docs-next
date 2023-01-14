@@ -5,7 +5,6 @@ category: Frequently Asked Questions
 badge: "FAQs"
 position: 12
 ---
-
 The most commonly asked questions regarding Andronix with their solutions.
 
 ### Getting this error whenever I try to install any OS
