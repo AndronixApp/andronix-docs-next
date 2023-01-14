@@ -9,7 +9,6 @@ position: 12
 The most commonly asked questions regarding Andronix with their solutions.
 
 ### Getting this error whenever I try to install any OS
-
 <img src="https://cdn.discordapp.com/attachments/840108865533902860/840110358252748810/Screenshot_2021-05-06-08-27-29-489_com.termux2.jpg" alt="drawing" width="200"/>
 
 **Ans.** Termux app from the Play Store has been discontinued. Please follow [this guide](/termux/migrating-to-f-droid)
