@@ -36,7 +36,6 @@ There are two ways which you can use to migrate to the Termux published on the F
 
 ### Integrated Method
 
-
 <alert type="warning">This method has been removed from Andronix due to a violation with Google Play policies.</alert>
 
 
