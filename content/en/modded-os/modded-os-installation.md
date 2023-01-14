@@ -6,7 +6,6 @@ position: 5
 ---
 
 Installing Modded OS is a straightforward process. Here's how to get started quickly-
-
 <alert type="info">You are allotted a set number of downloads that are allowed in a day and a month. It is a very
 generous limit and shouldn't be hit by most users, but we can always help you increase it for a valid use case. It is
 strictly done to curb down the abuse of the downloading system. **You can see this limit on the OS information page of
