@@ -15,6 +15,8 @@ each distribution.**</alert>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_3DdVI1jNtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 That information aside, we can begin installing the distro now. Follow the steps below-
 
+* Open the Andronix app and click on the **Andronix Modded OS** card to proceed further.
+
 * Open the app and click on the **Modded OS** button on the dashboard. After you get into the Modded OS section, you'll
   see the various distros that you can install.
 
@@ -34,8 +36,7 @@ That information aside, we can begin installing the distro now. Follow the steps
 
 [comment]: <> (   to [this section]&#40;&#41;.</alert>)
 
-* Now that we have the distro linked to our profile, we can continue. You would see three buttons, one labeled **
-  Install**, **Uninstall**, and **Download Quota**.
+* Now that we have the distro linked to our profile, we can continue. You would see three buttons, one labeled **Install**, **Uninstall**, and **Download Quota**.
 
     <img src="/images/modded_os_install_screen.png" alt="drawing" width="200"/>
 

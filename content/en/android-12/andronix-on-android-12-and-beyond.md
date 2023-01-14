@@ -31,8 +31,6 @@ The good thing being that Google will include a fix/toggle for this (phantom pro
 [More information on the proposed solution](https://www.xda-developers.com/android-13-phantom-process-toggle)
 
 
-
-
 <alert type="warning">
 The aforementioned statement about the fix being included in the upcoming versions of Android might not be true for skinned Android ROMs like Samsung's OneUI, Xiaomi's MIUI, Oppo's ColorOS etc.
 </alert>

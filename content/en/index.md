@@ -6,8 +6,8 @@ badge: "Installation"
 category: Introduction
 ---
 
-<alert type="warning">This is a getting started guide only for Andronix 6.0 and above. For older docs
-visit [here](https://docs.andronix.app).</alert>
+<alert type="info">This is a getting started guide only for **Andronix 7.0** and above. For older docs
+visit [here](https://docs-6.andronix.app).</alert>
 
 Andronix is designed to be as simple and intuitive as possible. Please choose what you want to get started with-
 
