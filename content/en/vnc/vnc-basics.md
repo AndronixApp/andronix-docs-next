@@ -11,16 +11,62 @@ Let's learn how to operate VNC servers including starting, stopping and debuggin
 
 ### Starting a VNC server
 
-First, you need to make sure that you have any Desktop Environment installed in your Linux OS. After you make sure that
-you're inside the OS shell (shell you get after starting the distro) and not the Termux shell; execute the following
-command in that-
+* Andronix has already copied the necessary command on your clipboard if you are on the VNC server page. Just paste it in Termux (in the Distro
+  shell _[root@localhost]_) and execute it
+    ```bash
+    vncserver-start
+  ````
 
-```bash
-vncserver-start
-```
+    <img src="/images/install_new/vnc_server_start_command.jpg" alt="drawing" width="200"/>
+    
 
-Now just download any VNC Viewer app from Play Store (e.g. Real VNC, bVNC, etc.) and connect to localhost:1 or the
-configured port.
+* If you're prompted to select a resolution, just press **Enter** to dynamically select the resolution.
+* That's it. Now install the [RealVNC app](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
+  from the Google Play Store (or any other VNC client).
+
+    <img src="/images/install_new/real_vnc_connection_add.jpg" alt="drawing" width="200"/>
+
+* Now press the **Add(+)** button to add a VNC connection. Enter _localhost:1_ as the address and give it a name. Save
+  the record.
+
+    <img src="/images/install_new/real_vnc_connection_input.jpg" alt="drawing" width="200"/>
+
+* Click the newly created VNC address
+
+    <img src="/images/install_new/real_vnc_connection_selection.jpg" alt="drawing" width="200"/>
+
+
+* You might be warned that the connection is untrusted. Click **OK** to continue.
+
+    <img src="/images/install_new/vnc_unencrypted_connection.jpg" alt="drawing" width="200"/>
+
+* You will be prompted to enter a password. Enter the password you set while installing the distro step and click **
+  Continue**.
+
+    <img src="/images/install_new/real_vnc_password_input.jpg" alt="drawing" width="200"/>
+    <alert type="info">You can turn "Remember the password" toggle on for your convenience.</alert>
+* You will now be able to see the GUI of your Linux distribution.
+
+    <img src="/images/install_new/real_vnc_first_connection.jpg" alt="drawing" width="200"/>
+* You might notice the horrible picture quality. Don't worry, we'll fix that in the next step.
+* Press the **i** button on the top menu bar of the VNC app to open the settings.
+
+  <img src="/images/install_new/real_vnc_i_button.jpg" alt="drawing" width="200"/>
+
+* You will see the settings of the VNC app. Scroll down to the **Picture Quality** section and select **High**.
+
+    <img src="/images/install_new/real_vnc_picture_quality_settings.jpg" alt="drawing" width="200"/>
+
+* Now, you will be able to see the GUI of your Linux distribution in high quality.
+
+    <img src="/images/install_new/real_vnc_all_done.jpg" alt="drawing" width="200"/>
+
+* You can now use your Linux distribution as you would on a PC ✅.
+
+    <img src="/images/install_new/install_complete.jpg" alt="drawing" width="200"/>
+
+
+<alert type="warning">Always remember to **Stop the VNC** server before exiting the distro.</alert>
 
 ### Stopping a VNC server
 
