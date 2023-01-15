@@ -47,7 +47,7 @@ That information aside, we can begin installing the distro now. Follow the steps
 
 * As we are installing the distro, we will click on **Install**.
 
-## 2. Termux Execution 📥
+## 3. Termux Execution 📥
 
 Now comes the part where the actual installation of your Linux distribution begins.
 <alert type="success">Andronix app has copied a command to your clipboard automatically. </alert>
