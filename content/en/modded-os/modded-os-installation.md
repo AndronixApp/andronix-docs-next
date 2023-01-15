@@ -37,15 +37,17 @@ That information aside, we can begin installing the distro now. Follow the steps
 
 [comment]: <> (   to [this section]&#40;&#41;.</alert>)
 
-* Now that we have the distro linked to our profile, we can continue. You would see three buttons, one labeled **Install**, **Uninstall**, and **Download Quota**.
+* Now that we have the distro linked to our profile, we can continue.
+
+## 2. Selection ⭐️
+
+* You would see three buttons, one labeled **Install**, **Uninstall**, and **Download Quota**.
 
     <img src="/images/modded_install_new/modded_distro_options.jpg" alt="drawing" width="200"/>
 
 * As we are installing the distro, we will click on **Install**.
 
-
 ## 2. Termux Execution 📥
-
 
 Now comes the part where the actual installation of your Linux distribution begins.
 <alert type="success">Andronix app has copied a command to your clipboard automatically. </alert>
@@ -62,11 +64,13 @@ for [Migration to F-Droid](/termux/migrating-to-f-droid)</alert>
 
   <img src="/images/modded_install_new/modded_os_command_termux.jpg" alt="drawing" width="200"/>  
 
-  * The installation/downloading will take some time. Please leave the Termux app running.
-    <alert type="warning">Please read this article to disable battery optimization for Termux so that processes running
-    inside Termux don't randomly terminate.</alert>
-    <alert type="info">You might notice unusual low speeds while downloading the distro tar file. You can ignore it because
-    the file is simultaneously extracted while it's getting downloaded, and hence the process is slow.</alert>
+    * The installation/downloading will take some time. Please leave the Termux app running.
+      <alert type="warning">Please read this article to disable battery optimization for Termux so that processes
+      running
+      inside Termux don't randomly terminate.</alert>
+      <alert type="info">You might notice unusual low speeds while downloading the distro tar file. You can ignore it
+      because
+      the file is simultaneously extracted while it's getting downloaded, and hence the process is slow.</alert>
 
 * Now, click the **Command Executed** button at the bottom of the screen.
 * After the script has been executed successfully, Click the **Execution Finished** button at the bottom.
@@ -97,11 +101,13 @@ respective command)-
 
   <img src="/images/moddedos/modded_os_city.png" alt="drawing" width="200"/>
 
-* Now you can select the keyboard layout if you have any specific layout other than the default English keyboard. We will go ahead with the English keyboard layout, so press **Enter** and proceed forward.
+* Now you can select the keyboard layout if you have any specific layout other than the default English keyboard. We
+  will go ahead with the English keyboard layout, so press **Enter** and proceed forward.
 
   <img src="/images/moddedos/modded_os_keyboard.png" alt="drawing" width="200"/>
 
-* If everything goes perfectly, you will see a **blue screen** asking for a username. You can choose any username unless that's a reserved keyword like admin, root, etc. (your name works fine). Press **Enter** to
+* If everything goes perfectly, you will see a **blue screen** asking for a username. You can choose any username unless
+  that's a reserved keyword like admin, root, etc. (your name works fine). Press **Enter** to
   proceed. <alert type="info">If you can't access your keyboard for entering the username, press the ESC key at the
   bottom. Again, it restarts the script and this time, make sure that you have your keyboard out (click anywhere on the
   terminal) when you're in the Termux shell.</alert>
@@ -113,10 +119,12 @@ respective command)-
 
   <img src="/images/pass_user.png" alt="drawing" width="200"/>
 
-* Now you need a Root Password. You can choose any password as long as it is longer than six characters. Press Enter to proceed. Confirm the root password by re-entering it and press Enter to continue.
+* Now you need a Root Password. You can choose any password as long as it is longer than six characters. Press Enter to
+  proceed. Confirm the root password by re-entering it and press Enter to continue.
 
 
-* The next screen will show all the information entered. Check if those are the correct passwords and the username (if not,
+* The next screen will show all the information entered. Check if those are the correct passwords and the username (if
+  not,
   press the ESC or back button to restart the script). Press Enter to proceed.
 
   <img src="/images/confirm_user.png" alt="drawing" width="200"/>
@@ -129,7 +137,6 @@ respective command)-
 ## 5. VNC Configuration 📺
 
 <alert type="info">That's it! After this finishes, you will see- ```{your_username}@localhost:~$```</alert>
-
 
 * Now the Start VNC server page should have opened
 
