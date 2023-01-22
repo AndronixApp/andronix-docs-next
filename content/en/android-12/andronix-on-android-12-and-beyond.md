@@ -39,6 +39,14 @@ The aforementioned statement about the fix being included in the upcoming versio
 
 Please follow the instructions given below for your respective Android versions.
 
+### Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IhK55QfWdYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Credits: [@AkariOfficial](https://www.youtube.com/@AkariOfficial)
+
+
+
 ### Fix for Android 12L and beyond
 
 <alert type="info">
