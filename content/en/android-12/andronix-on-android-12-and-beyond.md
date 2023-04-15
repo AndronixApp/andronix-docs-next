@@ -7,7 +7,7 @@ position: 2
 
 
 <alert type="info">
-This information is necessary only if you are running android 12 and above.</alert>
+This information is necessary only if you are facing the Process <strong>(Process completed (signal 9) - press Enter)</strong> error on <strong>Termux</strong>.</alert>
 
 ## Problem
 
@@ -30,28 +30,23 @@ The good thing being that Google will include a fix/toggle for this (phantom pro
 
 [More information on the proposed solution](https://www.xda-developers.com/android-13-phantom-process-toggle)
 
-
-<alert type="warning">
-The aforementioned statement about the fix being included in the upcoming versions of Android might not be true for skinned Android ROMs like Samsung's OneUI, Xiaomi's MIUI, Oppo's ColorOS etc.
-</alert>
-
 ## Solutions
 
 Please follow the instructions given below for your respective Android versions.
 
 ### Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhK55QfWdYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mjXSh3yq-I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Credits: [@AkariOfficial](https://www.youtube.com/@AkariOfficial)
-
-
-
-### Fix for Android 12L and beyond
+### Fix for Stock Android 12L and beyond
 
 <alert type="info">
-This fix might not work on your device as OEM often have the choice to exclude changes pushed by Google to the Android Open-Source Project at their will.
+This fix might not work on your device as OEM often have the choice to exclude changes pushed by Google to the Android Open-Source Project at their will. If you are using a skinned Android ROM like Samsung's OneUI, Xiaomi's MIUI, Oppo's ColorOS etc. then try the next fix.
 </alert>
+
+#### Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mjXSh3yq-I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Please follow the steps mentioned below to turn off the Phantom process killer-
 
@@ -73,9 +68,13 @@ Please follow the steps mentioned below to turn off the Phantom process killer-
 
 7. You are now all set! ✅
 
-### Fix for Android 12
+### Fix for OneUI, MiUi and other non-stock Android 12L and beyond
 
-If you cannot upgrade to Android 12L or 13. Please try the following fix for Android 12-
+#### Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mjXSh3yq-I0?start=117" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Please follow the steps mentioned below to turn off the Phantom process killer-
 
 1. Make sure you have the Android Debug Bridge (ADB) installed on your other device. You can
    follow [this guide on XDA developers](https://www.xda-developers.com/install-adb-windows-macos-linux/) to install ADB
@@ -84,9 +83,15 @@ If you cannot upgrade to Android 12L or 13. Please try the following fix for And
    ```bash
    adb devices
    ```
-3. You should see your device listed in the output of the above command. Now run the following command in the ADB shell
+3. You should see your device listed in the output of the above command. Now run the following commands in the ADB shell
    ```bash
-   adb shell /system/bin/device_config put activity_manager max_phantom_processes 2147483647
+   adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent"
+   ```
+   ```bash
+   adb shell "/system/bin/device_config put activity_manager max_phantom_processes 2147483647"
+   ```
+   ```bash
+   adb shell settings put global settings_enable_monitor_phantom_procs false
    ```
 4. You should be all set! ✅˚
 
@@ -95,6 +100,12 @@ If you cannot upgrade to Android 12L or 13. Please try the following fix for And
 Credits for the discovery of the issue and the solution-
 
 [agnostic-apollo](https://github.com/agnostic-apollo)
+
+
+
+
+
+
 
 
 
